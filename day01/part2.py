@@ -1,6 +1,6 @@
 from rich import print
 
-f = open("./input2", "r")
+f = open("./input", "r")
 answer=0
 
 pos=0
